@@ -1,0 +1,6 @@
+Vendor ID,Vendor Name,Street Address Line 1,Street Address Line 2,Street Address Line 3,Street Address Line 4,Invoice Number,Refund Amount,Original Invoice Number,Original Invoice Ammount,Prorated Invoice Number,Pro-Rated Invoice Ammount
+123123123,Acme Corp,123 Main St,Suite 100,New York,NY 10001,INV001,392.3700000000001,ORI001,2258.44,PR001,1866.07
+456456456,Beta LLC,456 Oak Rd,Floor 2,Chicago,IL 60601,INV002,297.95000000000005,ORI002,2302.71,PR002,2004.76
+789789789,Gamma Inc,789 Pine Ave,,Los Angeles,CA 90001,INV003,144.26,ORI003,1836.54,PR003,1692.28
+101010101,Delta Co,101 Maple Blvd,Unit 5B,Houston,TX 77001,INV004,145.18000000000006,ORI004,1645.16,PR004,1499.98
+121212121,Epsilon Ltd,121 Elm St,,Phoenix,AZ 85001,INV005,352.56999999999994,ORI005,2107.58,PR005,1755.01
